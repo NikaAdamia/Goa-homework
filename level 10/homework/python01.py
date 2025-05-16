@@ -1,0 +1,1 @@
+#print(True and not False and (False or True) and True or not False) ეს გამოიტანს True ს რადგან ბოლოში True or not False და ამას გამოაქვს True
